@@ -10,20 +10,26 @@ All words in this dictionary are organized by type, not alphabetical order.
 ~~~~~~~~~~~~~~~~~~~~
 
 -
-CL : o'-
-English : at; in; near;
+CL: o'-
+English: at; in; near;
+Usage: 
 -
-CL : i'-
-English : before; 
+CL: i'-
+English: before; 
+Usage: 
 -
-CL : gi'-
-English : in-front of; before;
+CL: gi'-
+English: in-front of; before;
+Usage: 
 -
-CL : gu'-
-English : on; over; 
+CL: gu'-
+English: on; over; 
+Usage: 
 -
-CL : bi'-
-English : to;
+CL: bi'-
+English: to;
+Usage: 
 -
-CL : um'-
-English : with;
+CL: um'-
+English: with;
+Usage: 
