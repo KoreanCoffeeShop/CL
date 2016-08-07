@@ -9,56 +9,78 @@ All words in this dictionary are organized by type, not alphabetical order.
     PREPOSITIONS
 ~~~~~~~~~~~~~~~~~~~~
 
--
 CL: o'-
 English: at; in; near;
 Example Usage: 
--
+====================
 CL: i'-
 English: before; 
 Example Usage: 
--
+====================
 CL: gi'-
 English: in-front of; before;
 Example Usage: 
--
+====================
 CL: gu'-
 English: on; over; 
 Example Usage: 
--
+====================
 CL: bi'-
 English: to;
 Example Usage: 
--
+====================
 CL: um'-
 English: with;
 Example Usage: 
--
+====================
 CL: bjen'-
 English: across (at/to the other side of);
 Example Usage: 
--
+====================
 CL: qozo'-
 English: after (in the future of);
 Example Usage: 
-- 
+====================
 CL: pi'-
 English: for (for the purpose of);
 Example Usage: 
--
+====================
 CL: fe'-
 English: for (in exchange for);
 Example Usage: 
--
+====================
 CL: fomo'-
 English: because of;
 Example Usage: 
--
+====================
 CL: tan'-
 English: from (out of);
 Example Usage: 
--
+====================
 CL: etu'-
 English: under;
 Example Usage: 
--
+
+~~~~~~~~~~~~~~~~~~~~
+    CONJUNCTIONS
+~~~~~~~~~~~~~~~~~~~~
+
+CL: lo
+English: and;
+Example Usage:
+====================
+CL: gul
+English: if (on condition that);
+Example Usage:
+====================
+CL: cazon
+English: but;
+Example Usage:
+====================
+CL: u'
+English: or;
+Example Usage:
+====================
+CL: eqa
+English: than;
+Example Usage:
