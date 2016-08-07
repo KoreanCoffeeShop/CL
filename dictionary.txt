@@ -59,6 +59,7 @@ Example Usage:
 CL: etu'-
 English: under;
 Example Usage: 
+
 ~~~~~~~~~~~~~~~~~~~~
     CONJUNCTIONS
 ~~~~~~~~~~~~~~~~~~~~
@@ -81,3 +82,4 @@ Example Usage:
 CL: eqa
 English: than;
 Example Usage:
+
