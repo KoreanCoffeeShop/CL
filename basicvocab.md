@@ -20,5 +20,5 @@ If we would like to pluralize our roots, we can do so by adding a pluralizing su
 
 | CL | English    |
 |----|------------|
-| vinao | we, us  |
-| canao | them    |
+| vinar | we, us  |
+| canar | them    |
