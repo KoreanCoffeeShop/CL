@@ -9,4 +9,16 @@ This is the most basic vocabulary for CL.
 | vi | this, it   |
 | ca | that, they |
 
-There are only two pronouns, this *(vi)* and that *(ca)*.
+There are only two root pronouns, **this** *(vi)* and **that** *(ca)*. We can modify both root pronouns to make them first and second person personal pronouns.
+
+| CL | English    |
+|----|------------|
+| vina | I, me, my|
+| cana | You      |
+
+If we would like to pluralize our roots, we can do so by adding a pluralizing suffix (o).
+
+| CL | English    |
+|----|------------|
+| vinao | we, us  |
+| canao | them    |
