@@ -1,0 +1,29 @@
+A dash (-) prefixing a word means it is a suffix. Example: -na.
+A dash (-) suffixing a word means it is a prefix. Example: gu'-. 
+A word with out a dash means it is a root. 
+Suffixes and prefixes are attached to roots to modify or create new words.
+
+All words in this dictionary are organized by type, not alphabetical order.
+
+~~~~~~~~~~~~~~~~~~~~
+    PREPOSITIONS
+~~~~~~~~~~~~~~~~~~~~
+
+-
+CL : o'-
+English : at; in; near;
+-
+CL : i'-
+English : before; 
+-
+CL : gi'-
+English : in-front of; before;
+-
+CL : gu'-
+English : on; over; 
+-
+CL : bi'-
+English : to;
+-
+CL : um'-
+English : with;
