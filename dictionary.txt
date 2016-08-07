@@ -12,24 +12,53 @@ All words in this dictionary are organized by type, not alphabetical order.
 -
 CL: o'-
 English: at; in; near;
-Usage: 
+Example Usage: 
 -
 CL: i'-
 English: before; 
-Usage: 
+Example Usage: 
 -
 CL: gi'-
 English: in-front of; before;
-Usage: 
+Example Usage: 
 -
 CL: gu'-
 English: on; over; 
-Usage: 
+Example Usage: 
 -
 CL: bi'-
 English: to;
-Usage: 
+Example Usage: 
 -
 CL: um'-
 English: with;
-Usage: 
+Example Usage: 
+-
+CL: bjen'-
+English: across (at/to the other side of);
+Example Usage: 
+-
+CL: qozo'-
+English: after (in the future of);
+Example Usage: 
+- 
+CL: pi'-
+English: for (for the purpose of);
+Example Usage: 
+-
+CL: fe'-
+English: for (in exchange for);
+Example Usage: 
+-
+CL: fomo'-
+English: because of;
+Example Usage: 
+-
+CL: tan'-
+English: from (out of);
+Example Usage: 
+-
+CL: etu'-
+English: under;
+Example Usage: 
+-
