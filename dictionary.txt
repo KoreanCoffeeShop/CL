@@ -8,7 +8,6 @@ All words in this dictionary are organized by type, not alphabetical order.
 ~~~~~~~~~~~~~~~~~~~~
     PREPOSITIONS
 ~~~~~~~~~~~~~~~~~~~~
-
 CL: o'-
 English: at; in; near;
 Example Usage: 
@@ -60,11 +59,9 @@ Example Usage:
 CL: etu'-
 English: under;
 Example Usage: 
-
 ~~~~~~~~~~~~~~~~~~~~
     CONJUNCTIONS
 ~~~~~~~~~~~~~~~~~~~~
-
 CL: lo
 English: and;
 Example Usage:
