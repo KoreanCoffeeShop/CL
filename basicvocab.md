@@ -16,7 +16,7 @@ There are only two root pronouns, **this** *(vi)* and **that** *(ca)*. We can mo
 | vina | I, me, my|
 | cana | You      |
 
-If we would like to pluralize our roots, we can do so by adding a pluralizing suffix (o).
+If we would like to pluralize our roots, we can do so by adding a pluralizing suffix (r).
 
 | CL | English    |
 |----|------------|
