@@ -50,7 +50,7 @@ English: to (going to);
 CL: baonim
 English: take;
 ==========
-CL: eolam
+CL: yeo
 English: six (6);
 ==========
 CL: leusan
@@ -187,13 +187,13 @@ English: see;
 CL: taori
 English: round; period;
 ==========
-CL: beusil
+CL: beu
 English: seven (7);
 ==========
 CL: guoleng
 English: saw; cutting tool;
 ==========
-CL: taedun
+CL: tae
 English: three (3);
 ==========
 CL: saebil
@@ -205,7 +205,7 @@ English: show;
 CL: rairel
 English: she;
 ==========
-CL: neotul
+CL: neo
 English: two (2);
 ==========
 CL: daopang
@@ -223,7 +223,7 @@ English: we; us;
 CL: gaeda
 English: then;
 ==========
-CL: buopel
+CL: buo
 English: ten (10);
 ==========
 CL: gaobum
@@ -250,7 +250,7 @@ English: which (one);
 CL: baeding
 English: get; 
 ==========
-CL: daoten
+CL: dao
 English: five (5);
 ==========
 CL: sopeun
@@ -369,7 +369,7 @@ English: for;
 CL: noduom
 English: fly;
 ==========
-CL: dabeo
+CL: da
 English: eight (8);
 ==========
 CL: otao
@@ -426,7 +426,7 @@ English: or;
 CL: daeon
 English: with;
 ==========
-CL: tureol
+CL: tureo
 English: one (1);
 ==========
 CL: bigaen
