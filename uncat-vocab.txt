@@ -1,0 +1,163 @@
+~~~~~~~~~~343-38[4]~~~~~~~~~~
+CL: taebum
+English: out (not in);
+==========
+CL: baisu
+English: right (correct);
+==========
+CL: leudum
+English: red;
+==========
+CL: nairen
+English: open;
+==========
+CL: aidum
+English: only;
+==========
+CL: tuobing
+English: pretty;
+==========
+CL: nuoru
+English: sit;
+==========
+CL: naogal
+English: said;
+==========
+CL: leira
+English: put;
+==========
+CL: buala
+English: pick (to choose);
+==========
+CL: taesi
+English: ride;
+==========
+CL: uarum
+English: tell;
+==========
+CL: uosel
+English: some
+==========
+CL: deosun
+English: will (polite form);
+==========
+CL: daonil
+English: these; this(plural);
+==========
+CL: uogem
+English: to (going to);
+==========
+CL: baonim
+English: take;
+==========
+CL: eolam
+English: six (6);
+==========
+CL: leusan
+English: so;
+==========
+CL: gailem;
+English: upon;
+==========
+CL: dualung
+English: up; above;
+==========
+CL: baerin
+English: them;
+==========
+CL: leiging
+English: start (to begin);
+==========
+CL: geunum
+English: that; it (in-polite);
+==========
+CL: duonung
+English: use;
+==========
+CL: ruoding
+English: where;
+==========
+CL: luodil
+English: think;
+==========
+CL: deineng
+English: today;
+==========
+CL: beusin
+English: they; 
+==========
+CL: laeral
+English: wash (to clean off);
+==========
+CL: laede
+English: you;
+==========
+CL: taopo
+English: was; were;
+==========
+CL: suaten
+English: try;
+==========
+CL: uoral
+English: has (belongs to);
+==========
+CL: tuapong
+English: grow (in size);
+==========
+CL: laitan
+English: under; below;
+==========
+CL: seudem
+English: hold; grasp;
+==========
+CL: seoil
+English: him;
+==========
+CL: guasing
+English: it; 
+==========
+CL: beodol
+English: go;
+==========
+CL: leupan
+English: inside; into; in;
+==========
+CL: beuden
+English: write;
+==========
+CL: saogam
+English: keep; save;
+==========
+CL: reoral
+English: know; remember;
+==========
+CL: beipan
+English: new;
+==========
+CL: eipam
+English: laugh; chuckle;
+==========
+CL: naila
+English: live (to be alive);
+==========
+CL: sairang
+English: now; currently;
+==========
+CL: raedan
+English: long; in large length;
+==========
+CL: nuonang
+English: our; belongs to us;
+==========
+CL: eosin
+English: (being like) myself; 
+
+~~~~~~~~~~343-39[2]~~~~~~~~~~
+CL:
+English:
+==========
+CL:
+English:
+==========CL:
+English:
+==========
