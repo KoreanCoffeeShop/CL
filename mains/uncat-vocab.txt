@@ -5,7 +5,7 @@ English: out (not in);
 CL: baisu
 English: right (correct);
 ==========
-CL: leudum
+CL: leudumdo
 English: red;
 ==========
 CL: nairen
@@ -152,12 +152,155 @@ English: our; belongs to us;
 CL: eosin
 English: (being like) myself; 
 
+
 ~~~~~~~~~~343-39[2]~~~~~~~~~~
+CL: saorun
+English: play; participate in;
+==========
+CL: nun
+English: once; one time;
+==========
+CL: eorul
+English: never
+==========
+CL: naegil
+English: please;
+==========
+CL: beilo
+English: sing;
+==========
+CL: seobem
+English: run (sprint); 
+==========
+CL: raoen
+English: over;
+==========
+CL: leudul
+English: own; have ownership over;
+==========
+CL: teonen
+English: sleep;
+==========
+CL: paoro
+English: see;
+==========
+CL: taori
+English: round; period;
+==========
+CL: beusil
+English: seven (7);
+==========
+CL: guoleng
+English: saw; cutting tool;
+==========
+CL: taedun
+English: three (3);
+==========
+CL: saebil
+English: stop; bring to a halt;
+==========
+CL: eodol
+English: show;
+==========
+CL: rairel
+English: she;
+==========
+CL: neotul
+English: two (2);
+==========
+CL: daopang
+English: thank; to give thanks;
+==========
+CL: tuolu
+English: small; of small size;
+==========
+CL: suotil
+English: soon; in short time;
+==========
+CL: eodem
+English: we; us;
+==========
+CL: gaeda
+English: then;
+==========
+CL: buopel
+English: ten (10);
+==========
+CL: gaobum
+English: there;
+==========
+CL: laipen
+English: very;
+==========
+CL: oubando
+English: yellow;
+==========
+CL: taisam
+English: walk; stroll;
+==========
+CL: leisan
+English: together;
+==========
+CL: saobin
+English: this;
+==========
+CL: taino
+English: which (one);
+==========
+CL: baeding
+English: get; 
+==========
+CL: daoten
+English: five (5);
+==========
+CL: sopeun
+English: find;
+==========
+CL: taoseng
+English: have; hold in possession;
+==========
+CL: uoil
+English: work; labor;
+==========
+CL: raigang
+English: hurt; injured;
+==========
+CL: taibul
+English: how;
+==========
+CL: uonon
+English: little;
+==========
+CL: saiang
+English: must; must do;
+==========
+CL: deilu
+English: kind; polite; 
+==========
+CL: luale
+English: let; to allow;
+==========
+CL: neorong
+English: no; 
+==========
+CL: beusing
+English: light; 
+==========
+CL: duolan
+English: may; can do;
+==========
+CL: leigam
+English: on; powered on;
+==========
+CL:  saitan
+English: much; many of (something);
+==========
+CL: tuobeng
+English: old (in age); experienced;
+
+
+~~~~~~~~~~357-34[3]~~~~~~~~~~
 CL:
 English:
 ==========
-CL:
-English:
-==========CL:
-English:
-==========
+~~~~~~~~~~358-2[1]~~~~~~~~~~
