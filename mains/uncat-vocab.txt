@@ -300,6 +300,48 @@ English: old (in age); experienced;
 
 
 ~~~~~~~~~~357-34[3]~~~~~~~~~~
+CL: rugein
+English: all;
+==========
+CL: gopeol
+English: always; 
+==========
+CL: tugao
+English: and;
+==========
+CL: opuang
+English: again;
+==========
+CL: nubael
+English: better;
+==========
+CL: ruein
+English: is;
+==========
+CL: gaedo
+English: because;
+==========
+CL: geteo
+English: big; of large size;
+==========
+CL: ureim
+English: any;
+==========
+CL:
+English:
+==========
+CL:
+English:
+==========
+CL:
+English:
+==========
+CL:
+English:
+==========
+CL:
+English:
+==========
 CL:
 English:
 ==========
