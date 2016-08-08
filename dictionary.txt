@@ -8,6 +8,7 @@ All words in this dictionary are organized by type, not alphabetical order.
 ~~~~~~~~~~~~~~~~~~~~
     PREPOSITIONS
 ~~~~~~~~~~~~~~~~~~~~
+
 CL: o'-
 English: at; in; near;
 Example Usage: 
@@ -63,6 +64,7 @@ Example Usage:
 ~~~~~~~~~~~~~~~~~~~~
     CONJUNCTIONS
 ~~~~~~~~~~~~~~~~~~~~
+
 CL: lo
 English: and;
 Example Usage:
@@ -83,3 +85,72 @@ CL: eqa
 English: than;
 Example Usage:
 
+~~~~~~~~~~~~~~~~~~~~
+     BASICVERBS
+~~~~~~~~~~~~~~~~~~~~
+
+CL: anza
+English: is; be;
+Example Usage:
+====================
+CL: anzan
+English: become;
+Example Usage:
+====================
+CL: coz
+English: cause;
+Example Usage:
+====================
+CL: vozelle
+English: make;
+Example Usage:
+====================
+CL: follu
+English: do;
+Example Usage:
+====================
+CL: afuzo
+English: have;
+Example Usage:
+====================
+
+~~~~~~~~~~~~~~~~~~~~
+     BASICNOUNS
+~~~~~~~~~~~~~~~~~~~~
+
+CL: rune
+English: person; 
+Example Usage:
+====================
+CL: chil
+English: baby; child;
+Example Usage:
+====================
+CL: no
+English: boy; 
+Example Usage:
+====================
+CL: ja
+English: girl; 
+Example Usage:
+====================
+CL: nore
+English: man; 
+Example Usage:
+====================
+CL: jare
+English: woman; 
+Example Usage:
+====================
+CL: famire
+English: family; 
+Example Usage:
+====================
+CL: corr
+English: father; 
+Example Usage:
+====================
+CL: marr
+English: mother; 
+Example Usage:
+====================
