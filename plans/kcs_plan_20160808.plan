@@ -2,17 +2,17 @@
 * removed all french influence 
 * remove v, z, q, ui
 
-+ generating first 500 words
++ generating first 500 words to uncat-vocab.txt
 + added ng as a final
 + added m as a final
 
 Great! Stuff is getting done! All words will be added to the uncat-vocab.txt file. 
 I'm not super sure what I want this language to be, and funnily enough it's not even named yet. 
-So maybe that's what I should be doing. Anyways, I've decided to keep the "asian" style for the language, and I'll keep
-this as I develop it. 
+So maybe that's what I should be doing. Anyways, I've decided to keep the "asian" style for the language, 
+and I'll keep this as I develop it. 
 
 Also, you may be curious why this is a .plan file on github, and not a .txt. The main answer to that is it's basically 
 my little homage to John Carmack's .plan files. And while this isn't going to be as cool as his, it's my way to pay a 
-bit of respect to him.
+bit of respect to him. That and it's kinda cool.
 
 - Juju
