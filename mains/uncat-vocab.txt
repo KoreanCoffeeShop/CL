@@ -327,22 +327,110 @@ English: big; of large size;
 CL: ureim
 English: any;
 ==========
-CL:
-English:
+CL: latuo
+English: carry;
 ==========
-CL:
-English:
+CL: upeon
+English: eat;
 ==========
-CL:
-English:
+CL: laneo
+English: before;
 ==========
-CL:
-English:
+CL: sadeom
+English: can; be able to;
 ==========
-CL:
-English:
+CL: tibei
+English: ask;
 ==========
-CL:
-English:
+CL: lelae
+English: cut; 
 ==========
+CL: dibeumdo
+English: black;
+==========
+CL: nobae
+English: both;
+==========
+CL: depao
+English: down;
+==========
+CL: robeol
+English: draw; to mark with a tool;
+==========
+CL: duuan
+English: but;
+==========
+CL: ureol
+English: call;
+==========
+CL: gataem
+English: for;
+==========
+CL: noduom
+English: fly;
+==========
+CL: dabeo
+English: eight (8);
+==========
+CL: otao
+English: give;
+==========
+CL: gesei
+English: far;
+==========
+CL: soteom
+English: fast;
+==========
+CL: podeul
+English: here;
+==========
+CL: aru
+English: too
+==========
+CL: lisai
+English: why;
+==========
+CL: beseung
+English: good;
+==========
+CL: geleo
+English: wish;
+==========
+CL: sipeum
+English: want;
+==========
+CL: nabaen
+English: hot;
+==========
+CL: lasuo
+English: jump; leap;
+==========
+CL: rapaendo
+English: green;
+==========
+CL: igeo
+English: like; to enjoy;
+==========
+CL: oraen
+English: what;
+==========
+CL: godae
+English: make;
+==========
+CL: goreom
+English: who;
+==========
+CL: rireil
+English: or;
+==========
+CL: daeon
+English: with;
+==========
+CL: tureol
+English: one (1);
+==========
+CL: bigaen
+English: read;
+==========
+
 ~~~~~~~~~~358-2[1]~~~~~~~~~~
