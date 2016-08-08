@@ -112,7 +112,6 @@ Example Usage:
 CL: afuzo
 English: have;
 Example Usage:
-====================
 
 ~~~~~~~~~~~~~~~~~~~~
      BASICNOUNS
@@ -153,4 +152,3 @@ Example Usage:
 CL: marr
 English: mother; 
 Example Usage:
-====================
