@@ -265,7 +265,7 @@ English: work; labor;
 CL: raigang
 English: hurt; injured;
 ==========
-CL: taibul
+CL: taibeul
 English: how;
 ==========
 CL: uonon
@@ -434,3 +434,33 @@ English: read;
 ==========
 
 ~~~~~~~~~~358-2[1]~~~~~~~~~~
+CL:
+English:
+==========
+CL:
+English:
+==========
+CL:
+English:
+==========
+CL:
+English:
+==========
+CL:
+English:
+==========
+CL:
+English:
+==========
+CL:
+English:
+==========
+CL:
+English:
+==========
+CL:
+English:
+==========
+CL:
+English:
+==========
