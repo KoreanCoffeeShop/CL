@@ -120,7 +120,7 @@ CL: beodol
 English: go;
 ==========
 CL: leupan
-English: inside; into; in;
+English: at; inside; into; in;
 ==========
 CL: beuden
 English: write;
@@ -434,38 +434,65 @@ English: read;
 ==========
 
 ~~~~~~~~~~358-2[1]~~~~~~~~~~
-CL:
-English:
+CL: bige
+English: after;
 ==========
-CL:
-English:
+CL: nigen
+English: about;
 ==========
-CL:
-English:
+CL: edin
+English: around;
 ==========
-CL:
-English:
+CL: nibil
+English: away;
 ==========
-CL:
-English:
+CL: putam
+English: as;
 ==========
-CL:
-English:
+CL: tenang
+English: clean;
 ==========
-CL:
-English:
+CL: lalong
+English: best;
 ==========
-CL:
-English:
+CL: nubin
+English: by;
 ==========
-CL:
-English:
+CL: nona
+English: done; complete;
 ==========
-CL:
-English:
+CL: inongdo
+English: brown;
 ==========
-CL:
-English:
+CL: ulong
+English: buy; purchase;
+==========
+CL: rupae
+English: find; search for;
+==========
+CL: lunin
+English: every;
+==========
+CL: sugal
+English: drink;
+==========
+CL: gine
+English: cold;
+==========
+CL: buta
+English: funny;
+==========
+CL: ili
+English: from;
+==========
+CL: padam
+English: fall;
+==========
+CL: lobang
+English: do;
+==========
+CL: ralan
+English: help;
 ==========
 CL:
 English:
