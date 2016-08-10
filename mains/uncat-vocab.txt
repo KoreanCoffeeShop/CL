@@ -494,18 +494,51 @@ English: do;
 CL: ralan
 English: help;
 ==========
-CL:
-English:
+CL: bei
+English: full;
 ==========
-CL:
-English:
+CL: suo
+English: four;
 ==========
-CL:
-English:
+CL: au
+English: first;
 ==========
-CL:
-English:
+CL: giri
+English: I;
 ==========
-CL:
-English:
+CL: paenang
+English: when;
+==========
+CL: saem
+English: warm;
+==========
+CL: ta
+English: is;
+==========
+CL: raeng
+English: give;
+==========
+CL: nipan
+English: well;
+==========
+CL: togen
+English: if;
+==========
+CL: singgao
+English: just;
+==========
+CL: pageng
+English: look;
+==========
+CL: rimdo
+English: white;
+==========
+CL: badu
+English: off;
+==========
+CL: diting
+English: pull;
+==========
+CL: nuro
+English: yes;
 ==========
