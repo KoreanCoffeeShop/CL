@@ -1,6 +1,6 @@
 * fixed phoneticcs to mimic chinese/korean/japanese and be less shitty
 * removed all french influence 
-* remove v, z, q, ui
+* removed v, z, q, ui
 
 + generating first words to uncat-vocab.txt
 + added ng as a final
