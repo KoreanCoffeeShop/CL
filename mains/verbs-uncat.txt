@@ -1,0 +1,72 @@
+Sonado: Banqo
+English: to be soaked; to be drenched;
+==========
+Sonado: Dima
+English: to awake; to wake up;
+==========
+Sonado: Pensodora
+English: to believe;
+==========
+Sonado: Verla
+English: to leave;
+==========
+Sonado: Batira
+English: to lie; to fib; fabrication;
+==========
+Sonado: Ciuso
+English: to close;
+==========
+Sonado: Apire
+English: to open;
+==========
+Sonado: Paso
+English: to lay (down);
+==========
+Sonado: Coperire
+English: to cover;
+==========
+Sonado: Viro
+English: to be full; to fill;
+==========
+Sonado: Pronda
+English: to take;
+==========
+Sonado: Yon
+English: to hear; to listen;
+==========
+Sonado: Inveta
+English: to call; to invite;
+==========
+Sonado: Nunera
+English: to connect;
+==========
+Sonado: Tore
+English: to feel;
+==========
+Sonado: Lifesa
+English: to wash; to cleanse;
+==========
+Sonado: Tondo
+English: to mean; to imply;
+==========
+Sonado: Yen
+English: to see; to view;
+==========
+Sonado: Passara
+English: pass; to pass by;
+==========
+Sonado: Pensadare
+English: to think;
+==========
+Sonado: Rokodare
+English: to remember;
+==========
+Sonado: Qovaje
+English: to ride;
+==========
+Sonado: Eleva
+English: to soar;
+==========
+Sonado: Geya
+English: to guide;
+==========
